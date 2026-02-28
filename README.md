@@ -46,15 +46,24 @@ o    Esboço de validação inicial (testes com empresas piloto, feedback sobre 
 <img width="950" height="598" alt="Captura de tela 2026-02-28 165230" src="https://github.com/user-attachments/assets/056fce53-7643-49db-be3e-d47b7674028b" />
 
   
-- Um resumo do que o seu **App de Finanças Pessoais** faz;
-- 
+- Um resumo do que o seu **App de FuelControl** faz;
+
+- O App ajuda a controlar os gastos com consumo de combustíveis dos veículos, gastos com manutenção, verifica as metas estabelecidas para tornar mais a frota de veículos economica. 
+   
+ 
 - Uma breve **reflexão sobre o processo**:
+  
   - O que funcionou bem?
-  -   
+    
+  - A entrada de dados através de chat e os relatórios de consumo apresentados.
+     
   - O que não funcionou como o esperado?
-  -   
+    
+  - Não consegui implementar uma rotina para deletar os registros apresentados indevidamente, foi criado um icone de uma lixeira para deletar o registro, no entanto, ao clicar na lixeira para deletar o App apresentou 'erro' e eu não consegui resolver tal situação, então deixei do mesmo jeito.
+     
   - O que aprendeu sobre conversar com IAs?
-  - 
+    
+  - Aprendi que é possível criar vários Apps, porém sempre revisadndo e monitorando as atividades, além do mais hoje está mais fácil criar Apps através das IAs.
 
 > [!TIP]
 > https://id-preview-c82c80af--ee8639c1-babe-4e77-beaf-fb4fd09bb882.lovable.app/
